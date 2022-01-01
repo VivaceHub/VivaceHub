@@ -1,2 +1,2 @@
-# VivaceHub
-Hub Info
+# Vivace Hub
+This is Vivace Hub
